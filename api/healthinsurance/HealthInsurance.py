@@ -3,10 +3,10 @@ import numpy as np
 import pickle
 
 
-class HealthInsurance():
+class HealthInsurance(object):
     def __init__( self ):
 
-        self.annual_premium_scaler            = pickle.load ( open( '/Users/adriele/Documents/repos/pa004/parameter/annual_premium_scaler.pkl', 'rb') )
+        self.annual_premium_scaler            = pickle.load ( open( '/Users/adriele/Documents/repos/pa004/features/annual_premium_scaler.pkl', 'rb') )
         self.age_scaler                       = pickle.load ( open( '/Users/adriele/Documents/repos/pa004/features/age_scaler.pkl', 'rb') )
         self.vintage_scaler                   = pickle.load ( open( '/Users/adriele/Documents/repos/pa004/features/vintage_scaler.pkl', 'rb') )
         self.target_encode_region_code_scaler = pickle.load ( open( '/Users/adriele/Documents/repos/pa004/features/target_encode_region_code_scaler.pkl', 'rb') )
@@ -20,18 +20,19 @@ class HealthInsurance():
         df1.columns = ['id', 'gender', 'age', 'region_code', 'policy_sales_channel',
                        'driving_license', 'vehicle_age', 'vehicle_damage',
                        'previously_insured', 'annual_premium', 'vintage', 'response']
-
+        
+       
+        
         return df1
 
-    def feature_engeneering( self, df2 ):
+    def feature_engineering( self, df2 ):
 
-        # Vehicle age
-        df2['vehicle_age'] = df2['vehicle_age'].apply( lambda x: 'over_2_years'
-                                                      if x == '> 2 Years' else 'betwenn_1_2_years'
-                                                      if x == '1-2 Year' else 'below_1_year')
 
         # Vehicle demage
         df2['vehicle_damage'] = df2['vehicle_damage'].apply( lambda x: 1 if x == 'yes' else 0)
+
+        # Vehicle age
+        df2['vehicle_age'] = df2['vehicle_age'].apply( lambda x: 'over_2_years' if x == '> 2 Years' else 'between_1_2_years' if x == '1-2 Year' else 'below_1_year')
 
         return df2
 
@@ -70,10 +71,10 @@ class HealthInsurance():
     def get_prediction( self, model, original_data, test_data):
 
         #prediction
-        pred = model.predict( test_data)
+        pred = model.predict_proba( test_data)
 
         # Join pred into original data
-        original_data['prediction'] = np.expm1( pred )
+        original_data['score'] = pred[:, 1].tolist()
 
         return original_data.to_json( orient='records', date_format='iso' )
 

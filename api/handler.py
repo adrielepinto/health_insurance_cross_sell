@@ -1,12 +1,13 @@
+import os
 import pandas as pd
 import numpy as np
 import pickle
 from flask import Flask, request, Response
-from healthinsurance import HealthInsurance
+from healthinsurance.HealthInsurance import HealthInsurance
 
 # load model
 
-model = picle.load( open('/Users/adriele/Documents/repos/pa004/model/lr_model.pkl','rb') )
+model = pickle.load( open('/Users/adriele/Documents/repos/pa004/model/lr_model.pkl','rb') )
 
 # initialized API
 app = Flask ( __name__ )
@@ -25,10 +26,10 @@ def health_insurance_predict():
 
 
         # Instanting HI class
-        pipeline = HealthInsurance ()
+        pipeline = HealthInsurance()
 
         # data cleaning
-        df1 = pipeline.data_cleaning( test_raw)
+        df1 = pipeline.data_cleaning( test_raw )
 
         #feature engineering
         df2 = pipeline.feature_engineering(df1)
@@ -44,6 +45,9 @@ def health_insurance_predict():
     else:
         return Response( '{}', status=200, mimetype='application/json' )
 
+#if __name__  == '__main__':
+    #port = os.environ.get('PORT', 5000)
+    #app.run( '0.0.0.0', port=port )
+
 if __name__  == '__main__':
     app.run( '0.0.0.0', debug=True )
-
