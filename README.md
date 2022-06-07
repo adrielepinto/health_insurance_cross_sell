@@ -2,40 +2,38 @@
 ![health](https://user-images.githubusercontent.com/97919969/172404366-f7c6e1f0-c095-404f-bd7d-c186bfde6aab.jpeg)
 
 # 1.0.CONTEXT
-Rossmann is a company witch operates over three thousand drugs stores, in seven European countries. 
+Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance.
+
 # 2.0. BUSINESS PROBLEM
-Buget definition for the refurbishment of stores.
+Know which customers would be interested in buying the new product.
 
 Cause:
 
-The current Sales Prediction displays many divergence;
+The company has a list of 380.000 of posssible interested customers;
 
-The Sales Prediction process is based on pass experiences;
-
-All of Sales Prediction has been done manually by 1.115 Rossmann Stores;
-
-The visualisation of Sales is limited by computer;
+The company has the capacity to make only 20.000 calls by period campaign.
 
 
 Solution:
 
-Use Machine Learning to perform the Sales Prediction for all Stores;
+Use Machine Learning algorithm to sort a list priorizing the most interested customers;
 
-The visualization of Salles Prediction can be seen by a Smartphone;
+The visualization of the list can be seen by Google Sheets;
 
 # 3. Solution Development 
 # Data Description
-<img width="810" alt="Screen Shot 2022-05-05 at 6 28 20 AM" src="https://user-images.githubusercontent.com/97919969/166934049-8d2696e8-2d0e-4d58-975d-887d850e56fb.png">
+<img width="637" alt="Screen Shot 2022-06-07 at 9 05 03 AM" src="https://user-images.githubusercontent.com/97919969/172429015-1884ad62-8cad-48bf-a5c6-14b637749d27.png">
+
 
 As we can see bellow, we have 2 data types: int64 and float64. It's important to explain that machine learning algorithms usually build a better learning with numerical data, this is one of the premises that we will assume.
 
 # Descriptive Startistical 
 
-<img width="1163" alt="Screen Shot 2022-05-05 at 6 33 26 AM" src="https://user-images.githubusercontent.com/97919969/166934613-210e6512-5f60-4d12-9869-b5755179ea43.png">
+<img width="836" alt="Screen Shot 2022-06-07 at 9 07 40 AM" src="https://user-images.githubusercontent.com/97919969/172429428-6184ef71-51e7-4546-bc0c-9d12d4263af2.png">
 
 # Mind Map
 
-![mindmap](https://user-images.githubusercontent.com/97919969/166935606-b2b1f351-f1a1-4ab8-9875-6db250e04732.png)
+![mindmap](https://user-images.githubusercontent.com/97919969/172429655-748108c0-61fa-4974-9916-3277edb83ff5.png)
 
 # Hipothesys List 
 
