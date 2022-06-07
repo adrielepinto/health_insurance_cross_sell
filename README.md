@@ -59,15 +59,12 @@ As we can see bellow, we have 2 data types: int64 and float64. It's important to
 
 <img width="1005" alt="Screen Shot 2022-06-07 at 9 12 45 AM" src="https://user-images.githubusercontent.com/97919969/172430586-4e46a7cd-82ad-45c2-8265-4eb7675d93de.png">
 
-# Categorical Variable
-
-<img width="1161" alt="Screen Shot 2022-05-05 at 6 50 03 AM" src="https://user-images.githubusercontent.com/97919969/166937978-a9c6feda-93d5-4000-8ce5-682a72797c9f.png">
 
 # Hypothesys validation
 
  # H1. 50% of female customers would be interested on the car insurance.
  FALSE
-<img width="1005" alt="Screen Shot 2022-06-07 at 9 12 45 AM" src="https://user-images.githubusercontent.com/97919969/172431189-3a6c0b3e-0cbc-427e-a3bb-9e78f21e580d.png">
+<img width="1090" alt="Screen Shot 2022-06-07 at 9 15 37 AM" src="https://user-images.githubusercontent.com/97919969/172434715-cb58ac55-7ae0-48f5-b0be-94b42aaf7963.png">
 
 - 31% Female customers are not interested.
 - 5.44% Female customers interested.
