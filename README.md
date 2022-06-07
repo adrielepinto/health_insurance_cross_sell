@@ -74,23 +74,24 @@ As we can see bellow, we have 2 data types: int64 and float64. It's important to
 # H2. Customers over 50 years old would be interested on the car insurance.
 FALSE 
 <img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
+- Customers over 50 years old are not interested.
 
 # H3 - Customers who has cars less than one year are insterested on the car 
 FALSE 
-
-<img width="1188" alt="Screen Shot 2022-05-05 at 6 58 49 AM" src="https://user-images.githubusercontent.com/97919969/166939768-1c4f034e-34b5-4a6b-995b-2e5dc6b81048.png">
-
-# H4. - Stores should sell more after 10th day of eatch month.
-TRUE
-<img width="1145" alt="Screen Shot 2022-05-05 at 7 01 11 AM" src="https://user-images.githubusercontent.com/97919969/166940329-f068d51a-af28-497c-a34a-0b8db799d0ca.png">
+<img width="1081" alt="Screen Shot 2022-06-07 at 9 23 04 AM" src="https://user-images.githubusercontent.com/97919969/172434983-dd85c7fc-c51e-425c-9a75-15411eb36699.png">
+<img width="449" alt="Screen Shot 2022-06-07 at 9 34 33 AM" src="https://user-images.githubusercontent.com/97919969/172435393-95515893-5901-40e5-b390-ea26f6c6af3c.png">
+- Bellow 1 year = 0.07% of  interested customers.
+- Between 1 and 2 yars = 13% of interested customers.
+- Over years = 2.80% of interested customers.
 
 # Hipothesys Resume
 
-<img width="432" alt="Screen Shot 2022-05-05 at 7 04 01 AM" src="https://user-images.githubusercontent.com/97919969/166940810-1c6838ae-8656-487d-8259-d761e857b966.png">
+<img width="372" alt="Screen Shot 2022-06-07 at 9 37 54 AM" src="https://user-images.githubusercontent.com/97919969/172436341-a26380a9-d597-466c-bb9d-19e090e7dae8.png">
 
 # Multivariable Analisys
 
-<img width="1161" alt="Screen Shot 2022-05-05 at 7 07 02 AM" src="https://user-images.githubusercontent.com/97919969/166941493-c453411c-15c8-4216-8165-4ea621cc2990.png">
+<img width="996" alt="Screen Shot 2022-06-07 at 9 39 34 AM" src="https://user-images.githubusercontent.com/97919969/172436587-adc87c41-049c-4ad0-b2b5-1779ca1e38ef.png">
+
 
 # Machine Learning Modelling
 Compare Model's Performance
