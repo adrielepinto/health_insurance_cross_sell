@@ -53,11 +53,11 @@ As we can see bellow, we have 2 data types: int64 and float64. It's important to
 # Exploratory Data Analisys
 # Response variable
 
-<img width="1233" alt="Screen Shot 2022-05-05 at 6 43 57 AM" src="https://user-images.githubusercontent.com/97919969/166936765-82c4188d-66d7-437f-843c-17312381f2f1.png">
+<img width="1085" alt="Screen Shot 2022-06-07 at 9 11 19 AM" src="https://user-images.githubusercontent.com/97919969/172430180-3fd9db60-fdb7-4a2c-90a6-d01d617c839c.png">
 
 # Numerical Variable
 
-<img width="1140" alt="Screen Shot 2022-05-05 at 6 46 38 AM" src="https://user-images.githubusercontent.com/97919969/166937348-0d575df7-4592-416d-9cc0-76a40e0bcc70.png">
+<img width="1005" alt="Screen Shot 2022-06-07 at 9 12 45 AM" src="https://user-images.githubusercontent.com/97919969/172430586-4e46a7cd-82ad-45c2-8265-4eb7675d93de.png">
 
 # Categorical Variable
 
@@ -65,15 +65,20 @@ As we can see bellow, we have 2 data types: int64 and float64. It's important to
 
 # Hypothesys validation
 
- # H1. - Stores with biggest assortment should sell more.
+ # H1. 50% of female customers would be interested on the car insurance.
  FALSE
-<img width="1269" alt="Screen Shot 2022-05-05 at 6 53 12 AM" src="https://user-images.githubusercontent.com/97919969/166938645-1ac64f4b-4ba5-4d39-944a-5db9cc4b545b.png">
+<img width="1005" alt="Screen Shot 2022-06-07 at 9 12 45 AM" src="https://user-images.githubusercontent.com/97919969/172431189-3a6c0b3e-0cbc-427e-a3bb-9e78f21e580d.png">
 
-# H2. - Stores with competitors around should sell less.
+- 31% Female customers are not interested.
+- 5.44% Female customers interested.
+- 52% Male customers are not interested.
+- 10% Male customers are interested.
+- 
+# H2. Customers over 50 years old would be interested on the car insurance.
 FALSE 
-<img width="1220" alt="Screen Shot 2022-05-05 at 6 56 32 AM" src="https://user-images.githubusercontent.com/97919969/166939302-ac95033c-561f-496f-bca1-5a5efd915d94.png">
+<img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
 
-# H3 - Opened stores on Christimas holliday should sall over/more.
+# H3 - Customers who has cars less than one year are insterested on the car 
 FALSE 
 
 <img width="1188" alt="Screen Shot 2022-05-05 at 6 58 49 AM" src="https://user-images.githubusercontent.com/97919969/166939768-1c4f034e-34b5-4a6b-995b-2e5dc6b81048.png">
