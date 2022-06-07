@@ -37,18 +37,16 @@ As we can see bellow, we have 2 data types: int64 and float64. It's important to
 
 # Hipothesys List 
 
- 1. - Stores with biggest assortment should sell over/more.
- 2. - Stores with competitors around should sell less.
- 3. - Stores with longer competitors should sell over/more.
- 4. - Stores with activate promotion for more time should sell over/more.
- 5. - Stores with more promotion days should sell over/more.
- 6. - Stores with consecultive promotion should sell over/more.
- 7. - Opened stores on Christimas holliday should sall over/more.
- 8. - Stores should sell more throughout the year.
- 9. - Stores should sell more on the second semestre of the year.
- 10. - Stores  should sell more after 10th day of eatch month.
- 11. - Stores should sell less on wekeends.
- 12. - Stores should sell less on hollidays school.
+- H1. 50% of female customers would be interested on the car insurance.
+- H2. Customers over 50 years old would be interested on the car insurance.
+- H3. 80% of Field customers wouldn't be interested on the car insurance.
+- H4. Feature study - Policy Sales 
+- H5. 30% of customers who has driver license would be insterested on the car insurance.
+- H6. Customers who has cars less than one year are insterested on the car insurance.
+- H7. H7. Feature Study - Vehicle Demage
+- H8. 80% of customers who had a previously insurance wouldn't be interested on the car insurance.
+- H9. Customers that paid for annually premmiun less than 40.000 would be insterested on the car insurance.
+- H10. Customers up to 120 days of association on Health Insurance would be insterested on the car insurance.
 
 # Exploratory Data Analisys
 # Response variable
