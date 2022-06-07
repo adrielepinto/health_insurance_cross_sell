@@ -92,29 +92,24 @@ FALSE
 
 <img width="996" alt="Screen Shot 2022-06-07 at 9 39 34 AM" src="https://user-images.githubusercontent.com/97919969/172436587-adc87c41-049c-4ad0-b2b5-1779ca1e38ef.png">
 
+# Feature Importance
+<img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
+<img width="484" alt="Screen Shot 2022-06-07 at 9 44 54 AM 1" src="https://user-images.githubusercontent.com/97919969/172437716-1d697cfa-034e-4ef9-8853-f153459e94a0.png">
 
-# Machine Learning Modelling
-Compare Model's Performance
-<img width="688" alt="Screen Shot 2022-05-05 at 7 09 26 AM" src="https://user-images.githubusercontent.com/97919969/166942120-c740476b-4f28-4540-9bd3-998225d8f30d.png">
+
+# Machine Learning Modelling 
+Regression Logistic
+<img width="1025" alt="Screen Shot 2022-06-07 at 9 55 45 AM" src="https://user-images.githubusercontent.com/97919969/172439694-bbd58fec-8c34-42e5-9592-0ca69a692649.png">
+
+# Manually Lift Curve
+<img width="861" alt="Screen Shot 2022-06-07 at 9 58 18 AM" src="https://user-images.githubusercontent.com/97919969/172440135-60fe7064-ad37-447c-a9cf-21113584d08a.png">
 
 # 4. Conclusion and Demostration 
-# Error Translater and interpretation
+# Manually ROI Curve
 
-<img width="688" alt="Screen Shot 2022-05-05 at 7 09 26 AM" src="https://user-images.githubusercontent.com/97919969/166942120-c740476b-4f28-4540-9bd3-998225d8f30d.png">
-
-# Business Performance
-
-<img width="1255" alt="Screen Shot 2022-05-05 at 7 15 37 AM" src="https://user-images.githubusercontent.com/97919969/166943359-7207c6a6-d644-4f8c-a3f5-5ba65707085c.png">
-
-# Total Performace
-
-<img width="484" alt="Screen Shot 2022-05-05 at 7 18 04 AM" src="https://user-images.githubusercontent.com/97919969/166943862-99c938c3-3582-4606-a347-98469c8ca966.png">
-
-# Machine Learning Performace
-
-<img width="1154" alt="Screen Shot 2022-05-05 at 7 21 12 AM" src="https://user-images.githubusercontent.com/97919969/166945747-b3998bef-457b-4f43-8da5-9a4eb1182bbe.png">
-
-
+<img width="621" alt="Screen Shot 2022-06-07 at 10 00 45 AM" src="https://user-images.githubusercontent.com/97919969/172440613-41fa1e0d-5f01-4d5f-8539-1ef396f2eacf.png">
+<img width="874" alt="Screen Shot 2022-06-07 at 10 03 04 AM" src="https://user-images.githubusercontent.com/97919969/172440982-1679b056-419e-4a63-9da4-c512c0dca417.png"
+     
 # Result View
 
-![DCF0651D-09EA-4F90-82C0-A69F479F9CA8](https://user-images.githubusercontent.com/97919969/166949002-f09e86e3-52b4-4878-aba0-5500894bad0f.png)
+https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX75i0/edit#gid=1007729239
