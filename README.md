@@ -32,42 +32,29 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 
 # Solution Strategy
 
-# 3. Solution Development 
-# Data Description
-<img width="637" alt="Screen Shot 2022-06-07 at 9 05 03 AM" src="https://user-images.githubusercontent.com/97919969/172429015-1884ad62-8cad-48bf-a5c6-14b637749d27.png">
+The method used for the project was CRISP-DM, apply as the steps below:
 
+Step 01. Data Description: The goal is to use statistical metrics to identify outliers in the business scope and also analyze basic statistical metrics such as: mean, median, maximum, minimum, range, skew, curtosis and standard deviation.
 
-As we can see bellow, we have 2 data types: int64 and float64. It's important to explain that machine learning algorithms usually build a better learning with numerical data, this is one of the premises that we will assume.
+Step 02. Feature Engineering: The goal of this step is to obtain new attributes based on the original variables, in order to better describe the phenomenon to be modeled.
 
-# Descriptive Startistical 
+Step 03. Data Filtering: The goal of this step it to filter rows and delete columns that are not relevant for the model or are not part of the business scope.
 
-<img width="836" alt="Screen Shot 2022-06-07 at 9 07 40 AM" src="https://user-images.githubusercontent.com/97919969/172429428-6184ef71-51e7-4546-bc0c-9d12d4263af2.png">
+Step 04. Exploratory Data Analysis: The goal of this step is to explore the data to find insights and better understand the impact of variables on model learning.
 
-# Mind Map
+Step 05. Data Preparation: The goal of this step is to prepare the data prepare data for application of the machine learning model.
 
-![mindmap](https://user-images.githubusercontent.com/97919969/172429655-748108c0-61fa-4974-9916-3277edb83ff5.png)
+Step 06. Feature Selection: The goal of this step is to select the better attributes to train the model. It was used Boruta Algorithm to make the selection.
 
-# Hipothesys List 
+Step 07. Machine Learning Modeling: The goal of this step is to do the machine learning model training.
 
-- H1. 50% of female customers would be interested on the car insurance.
-- H2. Customers over 50 years old would be interested on the car insurance.
-- H3. 80% of Field customers wouldn't be interested on the car insurance.
-- H4. Feature study - Policy Sales 
-- H5. 30% of customers who has driver license would be insterested on the car insurance.
-- H6. Customers who has cars less than one year are insterested on the car insurance.
-- H7. H7. Feature Study - Vehicle Demage
-- H8. 80% of customers who had a previously insurance wouldn't be interested on the car insurance.
-- H9. Customers that paid for annually premmiun less than 40.000 would be insterested on the car insurance.
-- H10. Customers up to 120 days of association on Health Insurance would be insterested on the car insurance.
+Step 08. Hyperparameter Fine Tunning: The goal of this step is to choose the best values for each of the parameters of the model selected in the previous step.
 
-# Exploratory Data Analisys
-# Response variable
+Step 09. Convert model performance to business values: The goal of this step is to convert model performance to a business result.
 
-<img width="1085" alt="Screen Shot 2022-06-07 at 9 11 19 AM" src="https://user-images.githubusercontent.com/97919969/172430180-3fd9db60-fdb7-4a2c-90a6-d01d617c839c.png">
+Step 10. Deploy Model to Production: The goal of this step is to publish the model in a cloud environment so that other people or services can use the results to improve the business decision. The cloud application platform choosed was Heroku.
 
-# Numerical Variable
-
-<img width="1005" alt="Screen Shot 2022-06-07 at 9 12 45 AM" src="https://user-images.githubusercontent.com/97919969/172430586-4e46a7cd-82ad-45c2-8265-4eb7675d93de.png">
+Step 11. Telegram Bot: The goal of this step is to create a bot on the telegram app, that make possible to consult the forecast at any time.
 
 
 # Hypothesys validation
