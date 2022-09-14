@@ -1,24 +1,35 @@
 # Health Insurance Cross Sell
+
 ![health](https://user-images.githubusercontent.com/97919969/172404366-f7c6e1f0-c095-404f-bd7d-c186bfde6aab.jpeg)
 
-# 1.0.CONTEXT
-Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance.
-
-# 2.0. BUSINESS PROBLEM
-Know which customers would be interested in buying the new product.
-
-Cause:
-
-The company has a list of 380.000 of posssible interested customers;
-
-The company has the capacity to make only 20.000 calls by period campaign.
 
 
-Solution:
+# BUSINESS PROBLEM
+Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
+- The company has a list of 380.000 of posssible interested customers;
+- The company has the capacity to make only 20.000 calls by period campaign.
+- The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
 
-Use Machine Learning algorithm to sort a list priorizing the most interested customers;
+# Solution:
 
-The visualization of the list can be seen by Google Sheets;
+Use Machine Learning algorithm to sort a list priorizing the most interested customers, that can be seen by Google Sheets;
+
+# Assumptions
+
+# Attribute List
+- Id: unique customer identifier.
+- Gender: Gender of the customer.
+- Age: customer's age.
+- Driving License: 0, the client isn't allowed to drive and 1, the client has to drive.
+- Region Code: Customer's region code.
+- Previously Insured: 0, the customer doesn't have auto insurance and 1, the customer already has auto insurance.
+- Vehicle Age: vehicle age.
+- Vehicle Damage: 0, customer has never had his vehicle damaged in the past and 1, customer has had his vehicle damaged in the past.
+- Annual Premium: amount the customer paid the company for annual health insurance.
+- Policy sales channel: anonymous code for the customer contact channel.
+- Vintage: number of days that the customer was associated with the company through the purchase of health insurance.
+- Response: 0, the customer isn't interested and 1, the customer is interested.
+
 
 # 3. Solution Development 
 # Data Description
