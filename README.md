@@ -30,6 +30,7 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 - Vintage: number of days that the customer was associated with the company through the purchase of health insurance.
 - Response: 0, the customer isn't interested and 1, the customer is interested.
 
+# Solution Strategy
 
 # 3. Solution Development 
 # Data Description
