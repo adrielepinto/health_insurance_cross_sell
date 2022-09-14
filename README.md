@@ -44,7 +44,7 @@ Step 04. Exploratory Data Analysis: The goal of this step is to explore the data
 
 Step 05. Data Preparation: The goal of this step is to prepare the data prepare data for application of the machine learning model.
 
-Step 06. Feature Selection: The goal of this step is to select the better attributes to train the model. It was used Boruta Algorithm to make the selection.
+Step 06. Feature Selection: The goal of this step is to select the better attributes to train the model. 
 
 Step 07. Machine Learning Modeling: The goal of this step is to do the machine learning model training.
 
@@ -85,15 +85,17 @@ FALSE
 
 <img width="372" alt="Screen Shot 2022-06-07 at 9 37 54 AM" src="https://user-images.githubusercontent.com/97919969/172436341-a26380a9-d597-466c-bb9d-19e090e7dae8.png">
 
-# Multivariable Analisys
 
-<img width="996" alt="Screen Shot 2022-06-07 at 9 39 34 AM" src="https://user-images.githubusercontent.com/97919969/172436587-adc87c41-049c-4ad0-b2b5-1779ca1e38ef.png">
 
 # Feature Importance
 <img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
 <img width="484" alt="Screen Shot 2022-06-07 at 9 44 54 AM 1" src="https://user-images.githubusercontent.com/97919969/172437716-1d697cfa-034e-4ef9-8853-f153459e94a0.png">
 
+The model shows that the most important feature is Vintage, and Vehicle Damage doesn’t have any importance.
 
+# Tested Machine Learning Models
+- KNN
+- 
 # Machine Learning Modelling 
 Regression Logistic
 <img width="1025" alt="Screen Shot 2022-06-07 at 9 55 45 AM" src="https://user-images.githubusercontent.com/97919969/172439694-bbd58fec-8c34-42e5-9592-0ca69a692649.png">
