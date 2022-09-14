@@ -57,7 +57,7 @@ Step 10. Deploy Model to Production: The goal of this step is to publish the mod
 Step 11. Telegram Bot: The goal of this step is to create a bot on the telegram app, that make possible to consult the forecast at any time.
 
 
-# Hypothesys validation
+# Three Data Insigths
 
  # H1. 50% of female customers would be interested on the car insurance.
  FALSE
