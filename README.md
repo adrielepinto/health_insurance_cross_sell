@@ -94,8 +94,11 @@ FALSE
 The model shows that the most important feature is Vintage, and Vehicle Damage doesn’t have any importance.
 
 # Tested Machine Learning Models
-- KNN
-- 
+- KNN;
+- Regression Logistic;
+- Extra Trees;
+- Random Forest;
+
 # Machine Learning Modelling 
 Regression Logistic
 <img width="1025" alt="Screen Shot 2022-06-07 at 9 55 45 AM" src="https://user-images.githubusercontent.com/97919969/172439694-bbd58fec-8c34-42e5-9592-0ca69a692649.png">
