@@ -34,7 +34,7 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 
 The method used for the project was CRISP-DM, apply as the steps below:
 
-# Step 01. Startical Description - Get insigts based on startical;
+- Step 01. - Startical Description - Get insigts based on startical;
 
 Step 02. Feature Engineering: The goal of this step is to obtain new attributes based on the original variables, in order to better describe the phenomenon to be modeled.
 
