@@ -30,32 +30,32 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 - Vintage: number of days that the customer was associated with the company through the purchase of health insurance.
 - Response: 0, the customer isn't interested and 1, the customer is interested.
 
-# Solution Strategy
+# Questions to answer:
+- 1. What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
+- 2. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
+- 3. How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
 
-The method used for the project was CRISP-DM, apply as the steps below:
+# Solution Strategy
 
 - Step 01. - Startical Description - Get insigts based on startical;
 
-Step 02. Feature Engineering: The goal of this step is to obtain new attributes based on the original variables, in order to better describe the phenomenon to be modeled.
+- Step 02. - Exploratory Data Analysis - Understand the Business Model and Features Relevance;
 
-Step 03. Data Filtering: The goal of this step it to filter rows and delete columns that are not relevant for the model or are not part of the business scope.
+- Step 03. - Balance Data - Balance data of vehicle insurance interests;
 
-Step 04. Exploratory Data Analysis: The goal of this step is to explore the data to find insights and better understand the impact of variables on model learning.
+- Step 04. - Data Preparation - Encolding, Reescaling, and Transform to data model;
 
-Step 05. Data Preparation: The goal of this step is to prepare the data prepare data for application of the machine learning model.
+- Step 05. - Modeling - Test five Machine Lear Models;
 
-Step 06. Feature Selection: The goal of this step is to select the better attributes to train the model. 
+- Step 06. - Cross Validadtion -  Make Cross Validation of two models with best performance 
 
-Step 07. Machine Learning Modeling: The goal of this step is to do the machine learning model training.
+- Step 07. - Hyperparameter - Find the best modeling parameters;
 
-Step 08. Hyperparameter Fine Tunning: The goal of this step is to choose the best values for each of the parameters of the model selected in the previous step.
+- Step 08. - Business Model - Convert ML metrics to Business Metrics 
 
-Step 09. Convert model performance to business values: The goal of this step is to convert model performance to a business result.
+- Step 09. - Deploy Model to Production - Make the model available for others to use;
 
-Step 10. Deploy Model to Production: The goal of this step is to publish the model in a cloud environment so that other people or services can use the results to improve the business decision. The cloud application platform choosed was Heroku.
-
-Step 11. Telegram Bot: The goal of this step is to create a bot on the telegram app, that make possible to consult the forecast at any time.
-
+- Step 10. - Deploy Model to Production - Access the model by Google Sheets.
 
 # Three Data Insigths
 
