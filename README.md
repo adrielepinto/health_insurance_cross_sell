@@ -34,7 +34,7 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 
 The method used for the project was CRISP-DM, apply as the steps below:
 
-Step 01. Data Description: The goal is to use statistical metrics to identify outliers in the business scope and also analyze basic statistical metrics such as: mean, median, maximum, minimum, range, skew, curtosis and standard deviation.
+*Step 01.* Startical Description - Get insigts based on startical;
 
 Step 02. Feature Engineering: The goal of this step is to obtain new attributes based on the original variables, in order to better describe the phenomenon to be modeled.
 
