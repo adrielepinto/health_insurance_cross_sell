@@ -31,9 +31,10 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 - Response: 0, the customer isn't interested and 1, the customer is interested.
 
 # Questions to answer:
-- 1. What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
-- 2. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
-- 3. How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
+- 1. What are the main insights into the most relevant attributes of customers interested in purchasing auto insurance?
+- 2. What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
+- 3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
+- 4. How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
 
 # Solution Strategy
 
