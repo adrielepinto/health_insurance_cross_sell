@@ -88,11 +88,6 @@ FALSE
 - Between 1 and 2 yars = 13% of interested customers.
 - Over years = 2.80% of interested customers.
 
-# Hipothesys Resume
-
-<img width="372" alt="Screen Shot 2022-06-07 at 9 37 54 AM" src="https://user-images.githubusercontent.com/97919969/172436341-a26380a9-d597-466c-bb9d-19e090e7dae8.png">
-
-
 
 # Feature Importance
 <img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
