@@ -13,6 +13,8 @@ Insurance All is a company that offer health insurance services, and the product
 
 # Solution:
 
+<img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
+
 Use Machine Learning algorithm to sort a list priorizing the most interested customers, that can be seen by Google Sheets;
 
 # Assumptions
