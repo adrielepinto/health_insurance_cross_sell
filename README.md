@@ -18,6 +18,7 @@ Insurance All is a company that offer health insurance services, and the product
 Use Machine Learning algorithm to sort a list priorizing the most interested customers, that can be seen by Google Sheets;
 
 # Assumptions
+In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
 
 # Attribute List
 - Id: unique customer identifier.
