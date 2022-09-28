@@ -96,6 +96,7 @@ FALSE
 The model shows that the most important feature is Vintage, and Vehicle Damage doesn’t have any importance.
 
 # Tested Machine Learning Models
+- Boruta
 - KNN;
 - Regression Logistic;
 - Extra Trees;
