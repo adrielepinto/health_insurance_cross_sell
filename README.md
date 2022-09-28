@@ -5,6 +5,7 @@
 
 
 # BUSINESS PROBLEM
+- Cross Sell Strategy.
 Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
 - The company has a list of 380.000 of posssible interested customers;
 - The company has the capacity to make only 20.000 calls by period campaign.
