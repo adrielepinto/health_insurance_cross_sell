@@ -105,7 +105,7 @@ The model shows that the most important feature is Vintage, and Vehicle Damage d
 # Machine Learning Modelling 
 Regression Logistic
 <img width="1025" alt="Screen Shot 2022-06-07 at 9 55 45 AM" src="https://user-images.githubusercontent.com/97919969/172439694-bbd58fec-8c34-42e5-9592-0ca69a692649.png">
-
+Among all machine learning models trained, Logist Regression was one that showed a better result, where it shows a steeper curve.
 # Manually Lift Curve
 <img width="861" alt="Screen Shot 2022-06-07 at 9 58 18 AM" src="https://user-images.githubusercontent.com/97919969/172440135-60fe7064-ad37-447c-a9cf-21113584d08a.png">
 
