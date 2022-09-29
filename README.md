@@ -118,7 +118,7 @@ Impacting 40% of customers base we will be impacting more than 60% of all intere
 # Manually Lift Curve
 <img width="861" alt="Screen Shot 2022-06-07 at 9 58 18 AM" src="https://user-images.githubusercontent.com/97919969/172440135-60fe7064-ad37-447c-a9cf-21113584d08a.png">
 
- The Lift Curve shows how the results of the trained model is better than random model. As showed above, if the calls are made using the Randon Forest Model trained, impacting 20% of customers, the results will be 1.8 better than if the are made randomly.
+ The Lift Curve shows how the results of the trained model is better than random model. As showed above, if the calls are made using the Randon Forest Model trained, impacting 20% of customers, the results will be 1.8 better than if the calls are made randomly.
  
 # 4. Conclusion and Demostration 
 # Manually ROI Curve
