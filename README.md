@@ -103,7 +103,8 @@ The model shows that the most important feature is Vintage, and Vehicle Damage d
 - Random Forest;
 
 # Machine Learning Modelling 
-- Regression Logistic
+- Regression Logistic:
+
 Among all machine learning models trained, Logist Regression was one that showed a better result, where it shows a steeper curve.
 <img width="886" alt="Captura de Tela 2022-09-29 às 9 04 40 AM" src="https://user-images.githubusercontent.com/97919969/193082213-bc8bbb3c-c92d-4858-9651-ce8bd4053713.png">
 
