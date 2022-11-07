@@ -61,7 +61,6 @@ In validating the hypotheses, a case study was carried out for each feature due 
 - 1. What are the main insights into the most relevant attributes of customers interested in purchasing auto insurance?
 - 2. What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
 - 3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
-- 4. How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
 
 
 # Three Data Insigths
