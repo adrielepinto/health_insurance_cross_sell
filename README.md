@@ -6,12 +6,22 @@
 
 NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
 
-# BUSINESS PROBLEM
+# 1.0 BUSINESS PROBLEM
 
 Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
 - The company has a list of 380.000 of posssible interested customers;
 - The company has the capacity to make only 20.000 calls by period campaign.
 - The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
+## 1.1 Understanding the Business Problem
+
+Business Problem/Question: What?
+Classify the customers with potential interest in purchasing a new service and measure this interest in order to prioritize them.
+
+Root Cause of the Problem: Why carry out this project?
+Be assertive in approaching customers most likely to purchase the new service by extracting knowledge from research with the customer base that the company has collected. Thus, reducing operation costs and efforts, maximizing profit.
+
+Problem Owner: Main stakeholder?
+Commercial Director and Product Director.
 
 # Solution:
 
