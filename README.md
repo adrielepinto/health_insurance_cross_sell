@@ -1,13 +1,15 @@
-# Health Insurance Cross Sell
+# Insurance Service Purchase Prediction and Propensity
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sofit4.com.br%2Fblog%2Facidente-de-transito%2F&psig=AOvVaw003DrA8lGk2HxQqyJ16IsJ&ust=1694202954447000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCrgfyjmYEDFQAAAAAdAAAAABAE![image](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/d6e5b8b3-aefe-4eae-ab44-4f8815dea2e3)
+
+![car](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/f24973e9-50c9-4601-b2ec-ec1f4979475a)
 
 
 NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
 
 # BUSINESS PROBLEM
 
-Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
+Insurance All is a company that offer health insurance ![image](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/11a4175d-17a9-4840-a012-da5d669d7e20)
+services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
 - The company has a list of 380.000 of posssible interested customers;
 - The company has the capacity to make only 20.000 calls by period campaign.
 - The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
