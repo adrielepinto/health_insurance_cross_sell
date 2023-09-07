@@ -123,7 +123,9 @@ Impacting 40% of customers base we will be impacting more than 60% of all intere
 # Manually ROI Curve
 
 <img width="621" alt="Screen Shot 2022-06-07 at 10 00 45 AM" src="https://user-images.githubusercontent.com/97919969/172440613-41fa1e0d-5f01-4d5f-8539-1ef396f2eacf.png">
+
 <img width="874" alt="Screen Shot 2022-06-07 at 10 03 04 AM" src="https://user-images.githubusercontent.com/97919969/172440982-1679b056-419e-4a63-9da4-c512c0dca417.png"
+
 
 <img width="832" alt="Screen Shot 2023-09-07 at 10 27 48 AM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/9d0a8f6f-ff6e-47da-81b5-bb7b7b533446">
 
