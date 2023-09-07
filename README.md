@@ -15,15 +15,15 @@ Insurance All is a company that offer health insurance services, and the product
 ## 1.1 Understanding the Business Problem
 
 - Business Problem/Question: What?
-- 
+
 Classify the customers with potential interest in purchasing a new service and measure this interest in order to prioritize them.
 
 - Root Cause of the Problem: Why carry out this project?
-- 
+
 Be assertive in approaching customers most likely to purchase the new service by extracting knowledge from research with the customer base that the company has collected. Thus, reducing operation costs and efforts, maximizing profit.
 
 - Problem Owner: Main stakeholder?
-- 
+ 
 Commercial Director and Product Director.
 
 # Solution:
