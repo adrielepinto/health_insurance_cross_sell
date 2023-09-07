@@ -8,8 +8,7 @@ NOTE: The business context is fictitious, however all planning and development o
 
 # BUSINESS PROBLEM
 
-Insurance All is a company that offer health insurance ![image](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/11a4175d-17a9-4840-a012-da5d669d7e20)
-services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
+Insurance All is a company that offer health insurance services, and the product team is analyzing the possibility of offering policyholders a new product: Automobile Insurance. However, the business team needs to Know which customers would be interested in buying the new product with follow facts:
 - The company has a list of 380.000 of posssible interested customers;
 - The company has the capacity to make only 20.000 calls by period campaign.
 - The product team selected 127,000 new customers who did not respond to the survey to participate in a campaign.
