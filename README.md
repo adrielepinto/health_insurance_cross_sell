@@ -1,8 +1,9 @@
 # Health Insurance Cross Sell
 
-![health](https://user-images.githubusercontent.com/97919969/172404366-f7c6e1f0-c095-404f-bd7d-c186bfde6aab.jpeg)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sofit4.com.br%2Fblog%2Facidente-de-transito%2F&psig=AOvVaw003DrA8lGk2HxQqyJ16IsJ&ust=1694202954447000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCrgfyjmYEDFQAAAAAdAAAAABAE![image](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/d6e5b8b3-aefe-4eae-ab44-4f8815dea2e3)
 
 
+NOTE: The business context is fictitious, however all planning and development of the solution is implemented following all the steps of a real market project.
 
 # BUSINESS PROBLEM
 
