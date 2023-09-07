@@ -25,6 +25,8 @@ Be assertive in approaching customers most likely to purchase the new service by
 - Problem Owner: Main stakeholder?
  
 Commercial Director and Product Director.
+# 2.0 Data
+The data for this project is available on the Kaggle platform"(https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)".
 
 # Solution:
 
