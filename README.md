@@ -69,10 +69,10 @@ The objective is to understand the variables/attributes that impact the phenomen
 -  Create the Hyphotesis;
 -  Validate the hyphotesis;
 
- #### 4.2.3.2 Variable Filtering
+#### 4.2.3.2 Variable Filtering
 Here the objective is to define attributes and their values according to a real business scenario and of interest for analyzing the phenomenon.
 
- #### 4.2.3.3  Exploratory Data Analysis  (EDA):
+#### 4.2.3.3  Exploratory Data Analysis  (EDA):
  It consists of measuring the impact of features/attributes on the response variable (phenomenon being evaluated).
 
 - Perform univariate analysis to understand the distribution of data for each attribute;
@@ -80,7 +80,7 @@ Here the objective is to define attributes and their values according to a real 
 - Create a summary table of the results of the hypotheses, and the estimated relevance of the attributes for model learning;
 - Perform multivariate analysis, to visualize linearly dependent columns through correlation analysis.
 
- ### 4.3.4 Data Modeling
+ ###  4.3.4 Step 04. Data Modeling
 
 The objective is to prepare the data to teach Machine Learning algorithms the patterns, involving Data Preparation and Feature Selection of a Data Science project.
 
@@ -92,7 +92,7 @@ The objective is to ensure that the data is numerical and on the same scale to f
 - Apply transformations on data; (categorical and numerical variables (Encoding's), response variable, cyclical in nature)
 - Apply the preparations under the validation data as well.
 - 
-### Feature Selection:
+### 4.3.4.1 Feature Selection:
 
 The objective is to select the most relevant attributes for the model.
 
