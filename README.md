@@ -44,11 +44,27 @@ The strategy adopted to resolve the problem is based on the Cross-industry stand
 
 <img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
 
-Use Machine Learning algorithm to sort a list priorizing the most interested customers, that can be seen by Google Sheets;
 
-# Solution Strategy
 
-- Step 01. - Startical Description - Get insigts based on startical;
+### 4.2.1 Step 01 - Data Extraction 
+-  Extract data from a database on AWS Cloud with PostgresSQL via Python.
+  
+### 4.2.2 Step 02 - Data Cleaning
+Fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. 
+- Understand the meaning of each attribute;
+- Check the size of the data;
+- Rename columns;
+- Identify and treat null and duplicate data;
+- Analyze and ensure correct data types;
+- Apply descriptive statistics to analyze attributes;
+- Identify and treat outlier data;
+
+### 4.2.3 Step 03 - Exploratory Data Analysis 
+Analyze and understand data. 
+
+The objective is to understand the variables/attributes that impact the phenomenon (target) of analysis and generate business insights.This step involves Feature Engineering, Variable Filtering and Exploratory Data Analysis (EDA)
+
+#### 4.2.3.1 Feature Engineering
 
 - Step 02. - Exploratory Data Analysis - Understand the Business Model and Features Relevance;
 
