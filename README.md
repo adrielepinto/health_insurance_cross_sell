@@ -22,9 +22,7 @@ Classify the customers with potential interest in purchasing a new service and m
 
 Be assertive in approaching customers most likely to purchase the new service by extracting knowledge from research with the customer base that the company has collected. Thus, reducing operation costs and efforts, maximizing profit.
 
-- Problem Owner: Main stakeholder?
- 
-Commercial Director and Product Director.
+
 # 2.0 Data
 The data for this project is available on the [Kaggle platform](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
 
