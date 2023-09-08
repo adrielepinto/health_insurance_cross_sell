@@ -58,7 +58,8 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 
 
 # Assumptions
-In validating the hypotheses, a case study was carried out for each feature due to the lack of clear data to obtain insights.
+- Every customer collected in the survey has a 100% probability of purchasing new car insurance;
+- The total average cost of the operation is 75.00 dollars;
 
 # Attribute List
 - Id: unique customer identifier.
