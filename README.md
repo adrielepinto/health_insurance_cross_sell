@@ -169,15 +169,18 @@ According to the graphs, they show that only 31% of women are interested, while 
 # H2. Customers over 50 years old would be interested on the car insurance.
 FALSE 
 - Of the customers in the database, the graphs show that customers over 50 years of age reduce their interest in purchasing car insurance, which can be explained by the fact that, due to their age, these customers tend not to drive more.
-- 
+- On the other hand, customers under 50 tend to buy car insurance.
+
 <img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
 - Customers over 50 years old are not interested.
 
 # H3 - Customers who has cars less than one year are insterested on the car 
 FALSE 
+- Customers who own cars between 1 and 2 years old would be more interested in purchasing car insurance.
+- However, customers who have owned cars for less than a year show only 2% interest in buying car insurance.
 <img width="1081" alt="Screen Shot 2022-06-07 at 9 23 04 AM" src="https://user-images.githubusercontent.com/97919969/172434983-dd85c7fc-c51e-425c-9a75-15411eb36699.png">
 <img width="449" alt="Screen Shot 2022-06-07 at 9 34 33 AM" src="https://user-images.githubusercontent.com/97919969/172435393-95515893-5901-40e5-b390-ea26f6c6af3c.png">
-- Bellow 1 year = 0.07% of  interested customers.
+- Bellow 1 year = 7% of  interested customers.
 - Between 1 and 2 yars = 13% of interested customers.
 - Over years = 2.80% of interested customers.
 
