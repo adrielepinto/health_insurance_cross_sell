@@ -177,7 +177,7 @@ FALSE
 # H3 - Customers who has cars less than one year are insterested on the car 
 FALSE 
 - Customers who own cars between 1 and 2 years old would be more interested in purchasing car insurance.
-- However, customers who have owned cars for less than a year show only 2% interest in buying car insurance.
+- However, customers who have owned cars for less than a year show less tha 1% of interest in buying car insurance.
 <img width="1081" alt="Screen Shot 2022-06-07 at 9 23 04 AM" src="https://user-images.githubusercontent.com/97919969/172434983-dd85c7fc-c51e-425c-9a75-15411eb36699.png">
 <img width="449" alt="Screen Shot 2022-06-07 at 9 34 33 AM" src="https://user-images.githubusercontent.com/97919969/172435393-95515893-5901-40e5-b390-ea26f6c6af3c.png">
 - Bellow 1 year = 7% of  interested customers.
