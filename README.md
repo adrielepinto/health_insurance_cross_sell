@@ -152,17 +152,20 @@ The objective is to make the model results accessible to any consumer (person, c
 - 3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
 
 
-# Three Data Insigths
+# 6.0 Three Data Insigths
 
  # H1. 50% of female customers would be interested on the car insurance.
- FALSE
+# FALSE #
+
+According to the graphs, they show that only 31% of women are interested, while men show 52% interest. 21% more compared to women.
+ 
 <img width="1090" alt="Screen Shot 2022-06-07 at 9 15 37 AM" src="https://user-images.githubusercontent.com/97919969/172434715-cb58ac55-7ae0-48f5-b0be-94b42aaf7963.png">
 
 - 31% Female customers are not interested.
 - 5.44% Female customers interested.
 - 52% Male customers are not interested.
 - 10% Male customers are interested.
-- 
+-
 # H2. Customers over 50 years old would be interested on the car insurance.
 FALSE 
 <img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
