@@ -59,30 +59,47 @@ Fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incompl
 - Apply descriptive statistics to analyze attributes;
 - Identify and treat outlier data;
 
-### 4.2.3 Step 03 - Exploratory Data Analysis 
+### 4.2.3 Step 03 - Exploratory Data  
 Analyze and understand data. 
 
 The objective is to understand the variables/attributes that impact the phenomenon (target) of analysis and generate business insights.This step involves Feature Engineering, Variable Filtering and Exploratory Data Analysis (EDA)
 
 #### 4.2.3.1 Feature Engineering
+- Create the hypothesis map;
+-  Create the Hyphotesis;
+-  Validate the hyphotesis;
 
-- Step 02. - Exploratory Data Analysis - Understand the Business Model and Features Relevance;
+ #### 4.2.3.2 Variable Filtering
+Here the objective is to define attributes and their values according to a real business scenario and of interest for analyzing the phenomenon.
 
-- Step 03. - Balance Data - Balance data of vehicle insurance interests;
+ #### 4.2.3.3  Exploratory Data Analysis  (EDA):
+ It consists of measuring the impact of features/attributes on the response variable (phenomenon being evaluated).
 
-- Step 04. - Data Preparation - Encolding, Reescaling, and Transform to data model;
+- Perform univariate analysis to understand the distribution of data for each attribute;
+- Perform bivariate analysis, to validate hypotheses, generate insights by understanding the impact of attributes on the analysis of the phenomenon;
+- Create a summary table of the results of the hypotheses, and the estimated relevance of the attributes for model learning;
+- Perform multivariate analysis, to visualize linearly dependent columns through correlation analysis.
 
-- Step 05. - Modeling - Test five Machine Lear Models;
+ ### 4.3.4 Data Modeling
 
-- Step 06. - Cross Validadtion -  Make Cross Validation of two models with best performance 
+The objective is to prepare the data to teach Machine Learning algorithms the patterns, involving Data Preparation and Feature Selection of a Data Science project.
 
-- Step 07. - Hyperparameter - Find the best modeling parameters;
+#### 4.3.4.1 Data Preparation:
 
-- Step 08. - Business Model - Convert ML metrics to Business Metrics 
+The objective is to ensure that the data is numerical and on the same scale to facilitate learning of the algorithms.
 
-- Step 09. - Deploy Model to Production - Make the model available for others to use;
+- Evaluate the distribution of numerical attributes to apply the appropriate form of standardization; (Normalization, Rescale)
+- Apply transformations on data; (categorical and numerical variables (Encoding's), response variable, cyclical in nature)
+- Apply the preparations under the validation data as well.
+- 
+### Feature Selection:
 
-- Step 10. - Deploy Model to Production - Access the model by Google Sheets.
+The objective is to select the most relevant attributes for the model.
+
+- Exclude attributes that were transformed into others in the feature engineering and data preparation stages;
+- Define feature selection method;
+- Compare suggestions from the method used with the result of the estimated relevance of the attributes for learning made in the EDA stage;
+- Define the attributes that will train the machine learning algorithms.
 
 
 
