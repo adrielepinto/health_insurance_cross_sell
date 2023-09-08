@@ -101,19 +101,37 @@ The objective is to select the most relevant attributes for the model.
 - Compare suggestions from the method used with the result of the estimated relevance of the attributes for learning made in the EDA stage;
 - Define the attributes that will train the machine learning algorithms.
 
-### 4.4Step 05 -  Machine Learning and Assessment Algorithms:
+### 5.5 Step 05 -  Machine Learning and Assessment Algorithms:
 
-It comprises the stages of algorithm training and parameter optimization (validation stage), evaluation of the final algorithm(s) on never-before-seen data.
+It comprises the stages of algorithm training and parameter optimization (validation stage), evaluation of the final algorithms on never-before-seen data.
 
 The goal is to teach machine learning algorithms with training data, so that they can learn the behavior of a phenomenon with the best parameters and then generalize them to never-before-seen examples. And thus, bring the expected business return for the required application.
 
-Define algorithms to be applied, from simple to more complex;
-Define performance evaluation metrics and apply them to validation data using a cross-validation method;
-Define parameter optimization strategy to detect parameters that make models perform better;
-Define best algorithm(s) and their best parameters to apply to test data and evaluate performance;
-Define an algorithm with its best parameters to put into production;
-Evaluate the performance of the final algorithm from a Machine Learning perspective.
+- Define algorithms to be applied, from simple to more complex;
+- Define performance evaluation metrics and apply them to validation data using a cross-validation method;
+- Define parameter optimization strategy to detect parameters that make models perform better;
+- Define best algorithm(s) and their best parameters to apply to test data and evaluate performance;
+- Define an algorithm with its best parameters to put into production;
+- Evaluate the performance of the final algorithm from a Machine Learning perspective.
 
+### 5.6 Step 06 - Translation and Interpretation:
+
+Convert machine learning model results into business metrics, that is, if the model is implemented, how effective it is in the intended task, converting it into financial values.
+
+- Answer the business questions required under the test data;
+- Evaluate the performance of the final algorithm implemented in the business context from a financial aspect (revenue, cost and profit).
+### 5.7 Model in Production ( Deploy ):
+
+The objective is to make the model results accessible to any consumer (person, cell phone, app, website, Google Sheets, Excel, any software connected to the internet that can make an API request).
+
+-  Create a class with all the necessary methods so that the final algorithm receives the transformed production data in the same way it was trained and performs the prediction;
+- Build API to put the data model and project to be accessed;
+- Test the API locally;
+- Publish API on cloud server;
+- Test the API locally in production;
+- Define and develop a tool to access/query data in production.
+
+  
 # Attribute List
 - Id: unique customer identifier.
 - Gender: Gender of the customer.
