@@ -28,6 +28,12 @@ Commercial Director and Product Director.
 # 2.0 Data
 The data for this project is available on the [Kaggle platform](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
 
+# 3.0 Business Assumptions
+- Every customer collected in the survey has a 100% probability of purchasing new car insurance;
+- The total average cost of the operation is 20.00 dollars;
+- The company's average revenue when selling a vehicle insurance product to a customer is 100.00 dollars.
+
+  
 # Solution:
 
 <img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
@@ -57,9 +63,6 @@ Use Machine Learning algorithm to sort a list priorizing the most interested cus
 - Step 10. - Deploy Model to Production - Access the model by Google Sheets.
 
 
-# Assumptions
-- Every customer collected in the survey has a 100% probability of purchasing new car insurance;
-- The total average cost of the operation is 75.00 dollars;
 
 # Attribute List
 - Id: unique customer identifier.
