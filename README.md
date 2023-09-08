@@ -33,13 +33,14 @@ The data for this project is available on the [Kaggle platform](https://www.kagg
 
   
 # 4.0 Business Solution:
-## Solution Planning 
+
+## 4.1 Solution Planning 
 The strategy adopted to resolve the problem is based on the Cross-industry standard process for data mining ( CRISP-DM )  project management methodology.
 
 
 ![crisp](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/aa7159a1-de8d-4038-add4-8d08a2ac1887)
 
-
+## 4.2 Solution Process
 
 <img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
 
