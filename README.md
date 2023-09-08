@@ -168,6 +168,8 @@ According to the graphs, they show that only 31% of women are interested, while 
 -
 # H2. Customers over 50 years old would be interested on the car insurance.
 FALSE 
+- Of the customers in the database, the graphs show that customers over 50 years of age reduce their interest in purchasing car insurance, which can be explained by the fact that, due to their age, these customers tend not to drive more.
+- 
 <img width="1087" alt="Screen Shot 2022-06-07 at 9 20 09 AM" src="https://user-images.githubusercontent.com/97919969/172432069-867036bd-3539-4749-9e60-498e60c1a7d6.png">
 - Customers over 50 years old are not interested.
 
