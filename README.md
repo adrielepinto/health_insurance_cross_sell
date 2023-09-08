@@ -40,16 +40,16 @@ The strategy adopted to resolve the problem is based on the Cross-industry stand
 
 ![crisp](https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/aa7159a1-de8d-4038-add4-8d08a2ac1887)
 
-## 4.2 Solution Process
+## 5.0 Solution Process
 
 <img width="678" alt="Captura de Tela 2022-09-28 às 9 31 17 AM" src="https://user-images.githubusercontent.com/97919969/192836667-0063a785-d763-4ea0-9578-44ab97de1c53.png">
 
 
 
-### 4.2.1 Step 01 - Data Extraction 
+### 5.1 Step 01 - Data Extraction 
 -  Extract data from a database on AWS Cloud with PostgresSQL via Python.
   
-### 4.2.2 Step 02 - Data Cleaning
+### 5.2 Step 02 - Data Cleaning
 Fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. 
 - Understand the meaning of each attribute;
 - Check the size of the data;
@@ -59,20 +59,20 @@ Fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incompl
 - Apply descriptive statistics to analyze attributes;
 - Identify and treat outlier data;
 
-### 4.2.3 Step 03 - Exploratory Data  
+### 5.3 Step 03 - Exploratory Data  
 Analyze and understand data. 
 
 The objective is to understand the variables/attributes that impact the phenomenon (target) of analysis and generate business insights.This step involves Feature Engineering, Variable Filtering and Exploratory Data Analysis (EDA)
 
-#### 4.2.3.1 Feature Engineering
+#### 5.3.1 Feature Engineering
 - Create the hypothesis map;
 -  Create the Hyphotesis;
 -  Validate the hyphotesis;
 
-#### 4.2.3.2 Variable Filtering
+#### 5.3.2 Variable Filtering
 Here the objective is to define attributes and their values according to a real business scenario and of interest for analyzing the phenomenon.
 
-#### 4.2.3.3  Exploratory Data Analysis  (EDA):
+#### 5.3.3  Exploratory Data Analysis  (EDA):
  It consists of measuring the impact of features/attributes on the response variable (phenomenon being evaluated).
 
 - Perform univariate analysis to understand the distribution of data for each attribute;
@@ -80,11 +80,11 @@ Here the objective is to define attributes and their values according to a real 
 - Create a summary table of the results of the hypotheses, and the estimated relevance of the attributes for model learning;
 - Perform multivariate analysis, to visualize linearly dependent columns through correlation analysis.
 
- ###  4.3.4 Step 04. Data Modeling
+ ###  5.4 Step 04. Data Modeling
 
 The objective is to prepare the data to teach Machine Learning algorithms the patterns, involving Data Preparation and Feature Selection of a Data Science project.
 
-#### 4.3.4.1 Data Preparation:
+#### 5.4.1 Data Preparation:
 
 The objective is to ensure that the data is numerical and on the same scale to facilitate learning of the algorithms.
 
@@ -92,7 +92,7 @@ The objective is to ensure that the data is numerical and on the same scale to f
 - Apply transformations on data; (categorical and numerical variables (Encoding's), response variable, cyclical in nature)
 - Apply the preparations under the validation data as well.
 - 
-### 4.3.4.1 Feature Selection:
+#### 5.4.2 Feature Selection:
 
 The objective is to select the most relevant attributes for the model.
 
@@ -101,7 +101,18 @@ The objective is to select the most relevant attributes for the model.
 - Compare suggestions from the method used with the result of the estimated relevance of the attributes for learning made in the EDA stage;
 - Define the attributes that will train the machine learning algorithms.
 
+### 4.4Step 05 -  Machine Learning and Assessment Algorithms:
 
+It comprises the stages of algorithm training and parameter optimization (validation stage), evaluation of the final algorithm(s) on never-before-seen data.
+
+The goal is to teach machine learning algorithms with training data, so that they can learn the behavior of a phenomenon with the best parameters and then generalize them to never-before-seen examples. And thus, bring the expected business return for the required application.
+
+Define algorithms to be applied, from simple to more complex;
+Define performance evaluation metrics and apply them to validation data using a cross-validation method;
+Define parameter optimization strategy to detect parameters that make models perform better;
+Define best algorithm(s) and their best parameters to apply to test data and evaluate performance;
+Define an algorithm with its best parameters to put into production;
+Evaluate the performance of the final algorithm from a Machine Learning perspective.
 
 # Attribute List
 - Id: unique customer identifier.
