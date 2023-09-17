@@ -188,6 +188,8 @@ FALSE
 
 # 7.0 Machine Learning
 
+This is the moment when the chosen algorithms learn the behavior of the data to predict a certain future behavior. Machine Learning Algorithms are capable of automating the data analysis process and making predictions in real time.
+
 ## 7.1 Tested Machine Learning Models
 - Boruta
 - KNN;
