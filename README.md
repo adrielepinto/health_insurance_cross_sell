@@ -193,7 +193,7 @@ This is the moment when the chosen algorithms learn the behavior of the data to 
 ## 7.1 Tested Machine Learning Models
 - Boruta
 - KNN;
-- Regression Logistic;
+- Logistic Regression;
 - Extra Trees;
 - Random Forest;
 
@@ -278,8 +278,9 @@ https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX7
 
 # 10.0  Conclusion 
 
+Working with data will always be a challenge, given the power and modeling possibilities that models bring. Classifying customers who would possibly buy new car insurance, I learned from data collection via SQL to the model results. Modeling the data, I learned that depending on the business problem, the Boruta algorithm is not always the best to select the features to perform the model. This project gave me a deeper understanding of tree-based algorithms. In reality, Random Forest - RF is an algorithm created in an attempt to solve one of the Decision Tree problems. Seeing that the probability of error from just one tree would be much greater, a forest was created, which denotes an 'electoral vote', where the class with the most votes of all trees wins the 'election' (class to be defined). I also learned a little more about the metrics of the Lyft curve model, which shows how much better the model is than selecting customers randomly, and the gain curve that evaluates the model's efficiency in relation to the database. It taught me that it is possible to reduce business costs, since this metric tells me how much of the database it will actually be necessary to work on.
 
-# 11.0 Next StepTo enhance the Model Results
+# 11.0 Next step to enhance the model results
 
 
 - Check which external variables increase the likelihood of the customer wanting car insurance.
@@ -289,6 +290,7 @@ https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX7
 
   # Tools:
   - Jupyter Notebook;
+  - Python
   - Pandas, Numpy, seaborn, matplot libraries
   - Sklearn Libraries
   - Picle;
