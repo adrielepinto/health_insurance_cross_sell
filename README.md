@@ -202,7 +202,7 @@ The model shows that the most important feature is Vintage, and Vehicle Damage d
 # Machine Learning Modelling 
 - Regression Logistic:
 
-Among all machine learning models trained, Logist Regression was one that showed a better result, where it shows a steeper curve.
+Among all machine learning models trained,  Extra Trees was one that showed a better result, which classifies all details using only 67% of the database, with a Lyft of approximately 1.70 better than random customer selection.
 
 # Curve Cumulative Gain
 <img width="886" alt="Captura de Tela 2022-09-29 às 9 04 40 AM" src="https://user-images.githubusercontent.com/97919969/193082213-bc8bbb3c-c92d-4858-9651-ce8bd4053713.png">
