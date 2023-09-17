@@ -239,7 +239,7 @@ Roy curve, is a line graph that shows the model's gain behavior.
 
 <img width="686" alt="Screen Shot 2023-09-17 at 2 09 04 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/2256c397-12ba-430a-ba96-1f1da856b155">
 
-## * considering only working with customers who have a probability above 30% of purchasing the product, with a customer cost of 500.00 and the sale of each policy worth 2,300.00 for each interested customer.**
+## * considering only working with customers who have a probability above 30% of purchasing the product, with a customer cost of 500.00 and the sale of each policy worth 2,300.00 for each interested customer.
 
 - Total Number of customer to work with: 1,409.00
 - Total Cost of customer to work with: $704,500.00
