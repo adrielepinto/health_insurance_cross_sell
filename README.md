@@ -293,4 +293,4 @@ https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX7
   - Sklearn Libraries
   - Picle;
   - Google Sheets;
-# contact me at (LinkedIn)[adrielepinto.github.io/portfolio/] if you have any question abou this project.  
+# contact me at [LinkedIn](adrielepinto.github.io/portfolio/) if you have any question abou this project.  
