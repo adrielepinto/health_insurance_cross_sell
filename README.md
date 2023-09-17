@@ -186,38 +186,50 @@ FALSE
 - Over years = 2.80% of interested customers.
 
 
-# Feature Importance
-<img width="987" alt="Screen Shot 2022-06-07 at 9 42 38 AM" src="https://user-images.githubusercontent.com/97919969/172437182-1d75bc83-84f4-4c48-a149-bd32689373b9.png">
-<img width="484" alt="Screen Shot 2022-06-07 at 9 44 54 AM 1" src="https://user-images.githubusercontent.com/97919969/172437716-1d697cfa-034e-4ef9-8853-f153459e94a0.png">
+# 7.0 Machine Learning
 
-The model shows that the most important feature is Vintage, and Vehicle Damage doesn’t have any importance.
-
-# Tested Machine Learning Models
+## 7.1 Tested Machine Learning Models
 - Boruta
 - KNN;
 - Regression Logistic;
 - Extra Trees;
 - Random Forest;
 
-# Machine Learning Modelling 
--  Extra Trees
-
 Among all machine learning models trained,  Extra Trees was one that showed a better result, which classifies all details using only 67% of the database, with a Lyft of approximately 1.70 better than random customer selection.
 
-# Extra Tree Performance
+## 7.2 Extra Tree Performance
+This step in the process helps to identify possible errors and measure the model's performance according to the task for which it was designed. Which includes the metrics of Precision, Recall and Accuracy.
+
+Obs : k = 20 000
+The metrics are meansuring to work with 20 000 clients
+
+ ### 7.2.1 Preciosn Precision 
+ Of all the customers that the model predicted were interested, how many were actually interested.
+
+ <img width="687" alt="Screen Shot 2023-09-17 at 1 37 50 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/986cb191-7196-4522-81da-6dfcc917bb19">
+
  
-# 4. Conclusion and Demostration 
-# Manually ROI Curve
+ Means that the algorithm has a 100% probability of hitting interested customers
 
-<img width="621" alt="Screen Shot 2022-06-07 at 10 00 45 AM" src="https://user-images.githubusercontent.com/97919969/172440613-41fa1e0d-5f01-4d5f-8539-1ef396f2eacf.png">
+ 
+ ### 7.2.2 Recall 
+ Of all the customers who are actually interested, how many did the model predict to be interested. (Class 1)
 
-<img width="874" alt="Screen Shot 2022-06-07 at 10 03 04 AM" src="https://user-images.githubusercontent.com/97919969/172440982-1679b056-419e-4a63-9da4-c512c0dca417.png">
-
-
-<img width="832" alt="Screen Shot 2023-09-07 at 10 27 48 AM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/9d0a8f6f-ff6e-47da-81b5-bb7b7b533446">
+<img width="687" alt="Screen Shot 2023-09-17 at 1 37 50 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/89b5b2f4-1d87-44f2-b8fd-680bbd4f2f1b">
 
 
-     
+ It means that the Algorithm has a 95% chance of catching all interested customers
+ 
+ ### 7.2.3 Accuracy
+ Accuracy tells you how often the model's predictions are correct.
+ 
+ <img width="484" alt="Screen Shot 2023-09-17 at 1 48 32 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/9e91c533-fdc8-40a6-a479-12ac950200f2">
+
+ 
+Simulating that the company will only work with customers who have a probability of over 60% of purchasing insurance, the model is getting 84% of its predictions right.
+## Model Performance 
+
+    
 # How to access the prediction
 
 Click on the link bellow.
