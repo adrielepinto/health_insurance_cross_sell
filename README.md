@@ -229,14 +229,68 @@ The metrics are meansuring to work with 20 000 clients
 
  
 Simulating that the company will only work with customers who have a probability of over 60% of purchasing insurance, the model is getting 84% of its predictions right.
-## Model Performance 
+## 7.3 Model Performance - Roy Curve
+Roy curve, is a line graph that shows the model's gain behavior.
 
-    
-# How to access the prediction
+    <img width="887" alt="Screen Shot 2023-09-17 at 2 04 31 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/3d4dad04-98eb-4eb8-9c1d-ee54e448a701">
+
+
+# 8.0 Model Results 
+
+<img width="686" alt="Screen Shot 2023-09-17 at 2 09 04 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/2256c397-12ba-430a-ba96-1f1da856b155">
+
+## * considering only working with customers who have a probability above 30% of purchasing the product, with a customer cost of 500.00 and the sale of each policy worth 2,300.00 for each interested customer.**
+
+- Total Number of customer to work with: 1,409.00
+- Total Cost of customer to work with: $704,500.00
+- Total Gross Revenue of customer to work with: $1,100,011.80
+- Total Expected Revenue from customers to work with: $395,511.80
+
+# 9.0 Business questions
+
+## 9.1 What are the main insights into the most relevant attributes of customers interested in purchasing auto insurance?
+
+- Only 1% of the database is interested in purchasing a new car service.
+- The expected revenue is $395,511.80.
+- Customers between 30-50 are more interested in a Vehicle Insurance;
+- Custumer withy newest cars are more interested in a Vehicle Insurance;
+
+## 9.2 What percentage of customers interested in purchasing auto insurance will the sales team be able to contact by making 20,000 calls?
+
+-YES, the sales team will be able to contact all interested customers, using only 1409 calls, which represents 1% of the database
+
+<img width="607" alt="Screen Shot 2023-09-17 at 2 15 51 PM" src="https://github.com/adrielepinto/health_insurance_cross_sell/assets/97919969/2392a1a5-9860-477a-9d01-01e1040ed35a">
+
+## 9.3 If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
+
+Unfortunately, it will not be necessary to increase calls because due to the low number of interested parties, the sales team's capacity is more than sufficient to serve all interested customers.
+
+
+## 9.4 How to access the prediction
+
 
 Click on the link bellow.
 
 https://docs.google.com/spreadsheets/d/1b2JnB4h7wAknER5g156xD5ZxCZVTJwZkr9hRIYX75i0/edit#gid=1007729239
      
 <img width="1440" alt="Screen Shot 2022-07-19 at 9 35 28 AM" src="https://user-images.githubusercontent.com/97919969/179803305-e667a4a3-2cec-4d20-87d0-d8eabd99e96a.png">
-     
+
+
+# 10.0  Conclusion 
+
+
+# 11.0 Next StepTo enhance the Model Results
+
+
+- Check which external variables increase the likelihood of the customer wanting car insurance.
+- Collect more data regarding the customer, such as salaries, where they live, number of children, whether they have their own home or not, to help the model select interested customers with more precision.
+- Check what can lower customer costs.
+- Categorize what types of insurance services would be offered. (complete policy or just for third parties)
+
+  # Tools:
+  - Jupyter Notebook;
+  - Pandas, Numpy, seaborn, matplot libraries
+  - Sklearn Libraries
+  - Picle;
+  - Google Sheets;
+# contact me at (LinkedIn)[adrielepinto.github.io/portfolio/] if you have any question abou this project.  
